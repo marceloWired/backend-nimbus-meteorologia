@@ -24,7 +24,7 @@ $ git clone https://github.com/marceloWired/backend-nimbus-meteorologia.git
 
 <p>Após clonar o repositório, você precisará instalar as dependências do projeto.</p>
 
-<p>Para isso, basta navegar até a pasta do projeto e rodar o seguinte comando</p>
+<p>Para isso, basta navegar até a pasta do projeto e rodar o seguinte comando:</p>
 
 ```bash
 # navegando até a pasta
